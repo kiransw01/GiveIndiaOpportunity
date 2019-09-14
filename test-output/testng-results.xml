@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="7" passed="7">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="279320" started-at="2019-09-14T12:05:30Z" finished-at="2019-09-14T12:10:09Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="279320" started-at="2019-09-14T12:05:30Z" finished-at="2019-09-14T12:10:09Z">
+      <class name="com.problemstatement.wikitest.WikiPageTest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.problemstatement.wikitest.WikiPageTest@742aa2]" name="setUp" is-config="true" duration-ms="52686" started-at="2019-09-14T12:05:30Z" description="Lauching the browser" finished-at="2019-09-14T12:06:23Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="launchUrL()[pri:0, instance:com.problemstatement.wikitest.WikiPageTest@742aa2]" name="launchUrL" duration-ms="93" started-at="2019-09-14T12:06:23Z" description="Launching the Provided URL" finished-at="2019-09-14T12:06:23Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchUrL -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.problemstatement.wikitest.WikiPageTest@742aa2]" name="tearDown" is-config="true" duration-ms="12905" started-at="2019-09-14T12:06:23Z" description="Closing the browser" finished-at="2019-09-14T12:06:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.problemstatement.wikitest.WikiPageTest@742aa2]" name="setUp" is-config="true" duration-ms="27573" started-at="2019-09-14T12:06:36Z" description="Lauching the browser" finished-at="2019-09-14T12:07:03Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="verifyExternalLink()[pri:1, instance:com.problemstatement.wikitest.WikiPageTest@742aa2]" name="verifyExternalLink" duration-ms="561" started-at="2019-09-14T12:07:03Z" description="Verify External link in External Links Section" finished-at="2019-09-14T12:07:04Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyExternalLink -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.problemstatement.wikitest.WikiPageTest@742aa2]" name="tearDown" is-config="true" duration-ms="10659" started-at="2019-09-14T12:07:04Z" description="Closing the browser" finished-at="2019-09-14T12:07:14Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.problemstatement.wikitest.WikiPageTest@742aa2]" name="setUp" is-config="true" duration-ms="19585" started-at="2019-09-14T12:07:14Z" description="Lauching the browser" finished-at="2019-09-14T12:07:34Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="clickOnOxygenLInk()[pri:2, instance:com.problemstatement.wikitest.WikiPageTest@742aa2]" name="clickOnOxygenLInk" duration-ms="3479" started-at="2019-09-14T12:07:34Z" description="Clicking on the oxygen Link" finished-at="2019-09-14T12:07:38Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clickOnOxygenLInk -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.problemstatement.wikitest.WikiPageTest@742aa2]" name="tearDown" is-config="true" duration-ms="7600" started-at="2019-09-14T12:07:38Z" description="Closing the browser" finished-at="2019-09-14T12:07:45Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.problemstatement.wikitest.WikiPageTest@742aa2]" name="setUp" is-config="true" duration-ms="22144" started-at="2019-09-14T12:07:45Z" description="Lauching the browser" finished-at="2019-09-14T12:08:07Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="verifyfeaturedArticle()[pri:3, instance:com.problemstatement.wikitest.WikiPageTest@742aa2]" name="verifyfeaturedArticle" duration-ms="4711" started-at="2019-09-14T12:08:07Z" description="Verifying Featured Article or not" finished-at="2019-09-14T12:08:12Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyfeaturedArticle -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.problemstatement.wikitest.WikiPageTest@742aa2]" name="tearDown" is-config="true" duration-ms="8554" started-at="2019-09-14T12:08:12Z" description="Closing the browser" finished-at="2019-09-14T12:08:21Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.problemstatement.wikitest.WikiPageTest@742aa2]" name="setUp" is-config="true" duration-ms="15810" started-at="2019-09-14T12:08:21Z" description="Lauching the browser" finished-at="2019-09-14T12:08:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="takeScreenshot()[pri:4, instance:com.problemstatement.wikitest.WikiPageTest@742aa2]" name="takeScreenshot" duration-ms="6052" started-at="2019-09-14T12:08:36Z" description="Taking screenshot of a table containing properties" finished-at="2019-09-14T12:08:42Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- takeScreenshot -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.problemstatement.wikitest.WikiPageTest@742aa2]" name="tearDown" is-config="true" duration-ms="8412" started-at="2019-09-14T12:08:42Z" description="Closing the browser" finished-at="2019-09-14T12:08:51Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.problemstatement.wikitest.WikiPageTest@742aa2]" name="setUp" is-config="true" duration-ms="28346" started-at="2019-09-14T12:08:51Z" description="Lauching the browser" finished-at="2019-09-14T12:09:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="numberOdfLInks()[pri:5, instance:com.problemstatement.wikitest.WikiPageTest@742aa2]" name="numberOdfLInks" duration-ms="8831" started-at="2019-09-14T12:09:19Z" description="Checking the number of PDF Links" finished-at="2019-09-14T12:09:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- numberOdfLInks -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.problemstatement.wikitest.WikiPageTest@742aa2]" name="tearDown" is-config="true" duration-ms="10478" started-at="2019-09-14T12:09:28Z" description="Closing the browser" finished-at="2019-09-14T12:09:39Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.problemstatement.wikitest.WikiPageTest@742aa2]" name="setUp" is-config="true" duration-ms="19836" started-at="2019-09-14T12:09:39Z" description="Lauching the browser" finished-at="2019-09-14T12:09:58Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="CheckPlutoniumUnderSuggestions()[pri:6, instance:com.problemstatement.wikitest.WikiPageTest@742aa2]" name="CheckPlutoniumUnderSuggestions" duration-ms="2511" started-at="2019-09-14T12:09:58Z" description="Checking Plutonium under suggestions" finished-at="2019-09-14T12:10:01Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CheckPlutoniumUnderSuggestions -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.problemstatement.wikitest.WikiPageTest@742aa2]" name="tearDown" is-config="true" duration-ms="8401" started-at="2019-09-14T12:10:01Z" description="Closing the browser" finished-at="2019-09-14T12:10:09Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.problemstatement.wikitest.WikiPageTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
